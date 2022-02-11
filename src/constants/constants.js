@@ -38,16 +38,14 @@ export const projects = [
 ];
 
 export const TimeLineData = [
-  { year: 2017, text: 'Started my journey', },
-  { year: 2018, text: 'Worked as a freelance developer', },
-  { year: 2019, text: 'Founded JavaScript Mastery', },
-  { year: 2020, text: 'Shared my projects with the world', },
-  { year: 2021, text: 'Started my own platform', },
+  { year: 2019, text: 'Started my journey in software development', },
+  { year: 2020, text: 'Started sharing my projects with the world', },
+  { year: 2021, text: 'Started learning flutter', },
 ];
 
 export const data = [
   { number: 20, text: 'Open Source Projects'},
-  { number: 1000, text: 'Students', },
-  { number: 1900, text: 'Github Followers', },
-  { number: 5000, text: 'Github Stars', }
+  // { number: 1000, text: 'Students', },
+  // { number: 1, text: 'Github Followers', },
+  { number: 10, text: 'Github Stars', }
 ];
